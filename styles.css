@@ -1,0 +1,26 @@
+.Wrapper{
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+
+}
+.flex-container {
+    display: flex;
+    flex-flow: column;
+}
+.box{
+    height: 500px;
+    min-width: 200px;
+    padding: 20px;
+    background-color: aliceblue;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+img{
+    width: 450px;
+    height: 400px;
+
+}
+.date{
+    text-align: end;
+}
